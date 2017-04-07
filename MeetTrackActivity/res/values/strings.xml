@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meet Track</string>
+    <string name="about">\n
+        Developed by:\n
+        Aakash Gangar\n
+        Amol Surve\n
+        Arjun Turakhia\n
+        Atul Patel</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Meet Track Admin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Meet Track</string>
+
+</resources>
